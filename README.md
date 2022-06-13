@@ -63,6 +63,7 @@ $use->createComment("comment, nice!", "https://dev.to/suphi/new-generation-buy-m
 
 Edit Profile :
 ```
+ <?php
 include("src.php");
 $use = new devto();
 $use->cookie = 'COOKIE';
@@ -72,6 +73,7 @@ $use->editProfile("Name(*)", "Maıl Adress(*)", "username(*)", "Bio", "Location"
 
 React Message:
 ```
+ <?php
 include("src.php");
 $use = new devto();
 $use->cookie = 'COOKIE';
