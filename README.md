@@ -92,3 +92,4 @@ $use->username = "YOUR USERNAME FROM dev.to";
 echo $use->createPost("Title", "Text - Body", "Hashtag, list, suphi");
 ```
 
+For TR => <a href="https://suphi.org/?p=78" target="_blank">https://suphi.org/?p=78</a>
