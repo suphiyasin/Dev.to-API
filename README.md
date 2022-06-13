@@ -82,6 +82,7 @@ include("src.php");
 $use = new devto();
 $use->cookie = 'COOKIE';
 $use->username = "YOUR USERNAME FROM dev.to";
-echo $use->createPost("TestAPI", "Just-fsloki-Testing...");
-
+//Important: Your other content cannot have the same body as this content.
+echo $use->createPost("Title", "Text - Body", "Hashtag, list, suphi");
 ```
+
