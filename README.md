@@ -1,4 +1,3 @@
-# Dev.to-API
 # Usage
 <center>
 <b>First we need to include src.php. Then you need to enter Cookie and username
@@ -16,7 +15,7 @@ $use->username = "YOUR USERNAME FROM dev.to";
  then you can use whatever function you want to use
 <br/>
 
-<h4>Examples</h4>
+<h1>Examples</h1>
 <br/>
 User Follow / Unfollow :
 <br/>
